@@ -27,4 +27,4 @@ Contact details
 
 ![ss5](https://user-images.githubusercontent.com/88974468/184531844-7bb8c08b-7ac1-436e-85e4-02ba58021522.png)
 
-Link to the website : 
+Link to the website : https://lively-beach-08f65be10.1.azurestaticapps.net
